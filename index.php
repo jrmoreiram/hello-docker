@@ -1,1 +1,3 @@
-<?php echo "Olá mundo! Olá Docker"; 
+<?php 
+    phpinfo(); 
+?>
