@@ -1,4 +1,4 @@
-# Curso Docker Devmedia: Hello word utilizando Docker.
+# Curso Docker Devmedia: Hello word utilizando Docker
 
 ### Temas abordados durante o curso:
 - Conhecendo os conceitos fundamentais do docker 
