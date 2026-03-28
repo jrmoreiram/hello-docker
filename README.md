@@ -1376,7 +1376,7 @@ Qualquer contexto adicional, mockups, etc.
 
 ### Código de Conduta
 
-Este projeto adere ao [Contributor Covenant](https://www.contributor-covenant.org/). Ao participar, espera-se que você mantenha este código. Por favor, reporte comportamentos inaceitáveis para [email@exemplo.com].
+Este projeto adere ao [Contributor Covenant](https://www.contributor-covenant.org/). Ao participar, espera-se que você mantenha este código. Por favor, reporte comportamentos inaceitáveis para [jumoreiram@gmail.com].
 
 ---
 
