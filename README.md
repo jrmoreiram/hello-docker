@@ -21,11 +21,11 @@
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades Principais](#-funcionalidades-principais)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Arquitetura do Sistema](#-arquitetura-do-sistema)
+- [Tecnologias Utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
+- [Arquitetura do Sistema](#%EF%B8%8F-arquitetura-do-sistema)
 - [Pré-requisitos](#-pré-requisitos)
 - [Instalação](#-instalação)
-- [Configuração](#-configuração)
+- [Configuração](#%EF%B8%8F-configuração)
 - [Uso](#-uso)
   - [Exemplos Básicos](#exemplos-básicos)
   - [Exemplos Avançados](#exemplos-avançados)
@@ -36,7 +36,7 @@
 - [Troubleshooting](#-troubleshooting)
 - [Guia de Contribuição](#-guia-de-contribuição)
 - [Testes](#-testes)
-- [Roadmap](#-roadmap)
+- [Roadmap](#%EF%B8%8F-roadmap)
 - [Licença](#-licença)
 - [Autores e Contato](#-autores-e-contato)
 
